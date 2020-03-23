@@ -1,0 +1,5 @@
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 2 (LSP, ISP, DIP)\Handout\CompressionStocking\bin\Debug\CompressionStocking.dll
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 2 (LSP, ISP, DIP)\Handout\CompressionStocking\bin\Debug\CompressionStocking.pdb
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 2 (LSP, ISP, DIP)\Handout\CompressionStocking\obj\Debug\CompressionStocking.csprojAssemblyReference.cache
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 2 (LSP, ISP, DIP)\Handout\CompressionStocking\obj\Debug\CompressionStocking.dll
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 2 (LSP, ISP, DIP)\Handout\CompressionStocking\obj\Debug\CompressionStocking.pdb

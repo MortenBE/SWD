@@ -2,7 +2,7 @@
 
 namespace ReportGenerator_SRP
 {
-    class ReportGeneratorClient
+    internal class ReportGeneratorClient
     {
         private static void Main()
         {
@@ -12,23 +12,20 @@ namespace ReportGenerator_SRP
             db.AddEmployee(new Employee("Anne", 3000));
             db.AddEmployee(new Employee("Berit", 2000));
             db.AddEmployee(new Employee("Christel", 1000));
-
-            //Create report generator
+            
             var reportGenerator = new ReportGenerator(db);
 
-            //Create Name-First report printer
-            IReportPrinter myNameFirstReportPrinter = new PrintReport_NameFirst();
-            //Create Salery-First report printer
-            IReportPrinter mySaleryFirstReportPrinter = new PrintReport_SaleryFirst();
-
-            // Compile report with Name-First report printer
-            reportGenerator.CompileReport(myNameFirstReportPrinter);
+            // Create a default (name-first) report
+            ReportPrinter myReportPrinter = new ReportPrinter();
+            
+            reportGenerator.CompileReport(myReportPrinter);
 
             Console.WriteLine("");
             Console.WriteLine("");
 
-            //Compile report with Salery-First report printer
-            reportGenerator.CompileReport(mySaleryFirstReportPrinter);
+            // Create a salary-first report
+            myReportPrinter.SetOutputFormat(ReportOutputFormatType.SalaryFirst);
+            reportGenerator.CompileReport(myReportPrinter);
 
         }
     }
