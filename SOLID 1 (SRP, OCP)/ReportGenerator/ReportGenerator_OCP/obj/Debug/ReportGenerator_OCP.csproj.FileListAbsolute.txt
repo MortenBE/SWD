@@ -1,0 +1,5 @@
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator_OCP\bin\Debug\ReportGenerator_OCP.exe.config
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator_OCP\bin\Debug\ReportGenerator_OCP.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator_OCP\bin\Debug\ReportGenerator_OCP.pdb
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator_OCP\obj\Debug\ReportGenerator_OCP.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator_OCP\obj\Debug\ReportGenerator_OCP.pdb

@@ -1,0 +1,6 @@
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.exe.config
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.pdb
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator\obj\Debug\ReportGenerator.csprojAssemblyReference.cache
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator\obj\Debug\ReportGenerator.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID 1 (SRP, OCP)\ReportGenerator\ReportGenerator\obj\Debug\ReportGenerator.pdb
