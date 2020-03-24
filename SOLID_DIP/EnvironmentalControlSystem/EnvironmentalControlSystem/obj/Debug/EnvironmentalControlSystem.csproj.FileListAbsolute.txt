@@ -1,0 +1,6 @@
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID_DIP\EnvironmentalControlSystem\EnvironmentalControlSystem\bin\Debug\EnvironmentalControlSystem.exe.config
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID_DIP\EnvironmentalControlSystem\EnvironmentalControlSystem\bin\Debug\EnvironmentalControlSystem.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID_DIP\EnvironmentalControlSystem\EnvironmentalControlSystem\bin\Debug\EnvironmentalControlSystem.pdb
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID_DIP\EnvironmentalControlSystem\EnvironmentalControlSystem\obj\Debug\EnvironmentalControlSystem.csprojAssemblyReference.cache
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID_DIP\EnvironmentalControlSystem\EnvironmentalControlSystem\obj\Debug\EnvironmentalControlSystem.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\SWD\SOLID_DIP\EnvironmentalControlSystem\EnvironmentalControlSystem\obj\Debug\EnvironmentalControlSystem.pdb
